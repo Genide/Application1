@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Application1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="happy_question">Are you happy?</string>
+    <string name="answer_yes_button">Yes</string>
+    <string name="answer_no_button">No</string>
+    <string name="default_edit_text">Your Name</string>
+
+</resources>
