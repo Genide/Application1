@@ -1,3 +1,4 @@
+//Daniel Nguyen
 package com.practice.daniel.application1;
 
 import android.support.v7.app.ActionBarActivity;
@@ -7,11 +8,8 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.TextView;
 import android.widget.Toast;
-
 import java.util.LinkedList;
-import java.util.ListIterator;
 
 
 public class MainActivity extends ActionBarActivity {
